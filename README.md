@@ -23,7 +23,7 @@ NOTE: Latest Version of convertvid is [v0.2.0-stable](https://github.com/cyberpr
 
 Instructions for running ConvertVid will be added soon.
 
-## (Previous) Releases
+## (Previous) 5 Releases
 
 | Release Tag                                                                  | Status  | Released DD-MM-YYYY    | Commit SHA | Release Notes Summary                                                      |
 |------------------------------------------------------------------------------|---------|--------------|------------|---------------------------------------------------------------------------|
