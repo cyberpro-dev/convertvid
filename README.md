@@ -1,4 +1,4 @@
--# Latest Version of convertvid is [v0.2.0-stable](https://github.com/cyberpro-dev/convertvid/releases/tag/v0.2.0), go check it out!
+NOTE: Latest Version of convertvid is [v0.2.0-stable](https://github.com/cyberpro-dev/convertvid/releases/tag/v0.2.0), go check it out!
 # Convertvid
 
 **Convertvid** is a fast and flexible video converter focused on quick TS to MP4 remuxing and optional re-encoding.
