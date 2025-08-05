@@ -24,4 +24,4 @@ Instructions for running ConvertVid will be added soon.
 
 ## License
 
-ConvertVid is proprietary software. All rights reserved by [Your Name]. Redistribution or modification is prohibited without permission.
+ConvertVid is proprietary software. All rights reserved by cyberpro-dev. Redistribution or modification is prohibited without permission.
